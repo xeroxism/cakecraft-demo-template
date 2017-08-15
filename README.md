@@ -1,4 +1,4 @@
-##CAKECraft Bootstrap Template
+CAKECraft Bootstrap Template
 
 A simple Bootstrap website template for a cake making business.
 Built with HTML, and the Bootstrap framework.
